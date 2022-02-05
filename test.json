@@ -5,7 +5,7 @@
         "EndDate": "2022-02-14T00:00:00",
         "GoodToShare": "Yes",
         "EventName": ".NET 20th anniversary broadcast",
-        "EventNotes": "Tune in for the .NET 20th Anniversary celebration!",
+        "EventNotes": "Tune in for the .NET 20th Anniversary celebration!"
         "EventURL": "https://dotnet.microsoft.com",
         "Region": "Global",
         "Host": "1st",
@@ -13,9 +13,9 @@
         "PrimaryTech": ".NET",
         "EventSize": "",
         "Presence": "Speaker(s)",
-        "Language": "English (en)",
+        "Language": English (en)",
         "ThumbnailURL": "/blob-assets/images/events/dotnet-20th-anniversary.png"
-    },
+    }
     {
         "ID": 1968,
         "StartDate": "2022-02-24T00:00:00",
