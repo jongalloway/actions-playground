@@ -1,0 +1,53 @@
+[
+    {
+        "ID": 10000,
+        "StartDate": "2022-02-14T00:00:00",
+        "EndDate": "2022-02-14T00:00:00",
+        "GoodToShare": "Yes",
+        "EventName": ".NET 20th anniversary broadcast",
+        "EventNotes": "Tune in for the .NET 20th Anniversary celebration!",
+        "EventURL": "https://dotnet.microsoft.com",
+        "Region": "Global",
+        "Host": "1st",
+        "EventType": "Online",
+        "PrimaryTech": ".NET",
+        "EventSize": "",
+        "Presence": "Speaker(s)",
+        "Language": "English (en)",
+        "ThumbnailURL": "/blob-assets/images/events/dotnet-20th-anniversary.png"
+    },
+    {
+        "ID": 1968,
+        "StartDate": "2022-02-24T00:00:00",
+        "EndDate": "2022-02-24T00:00:00",
+        "GoodToShare": "Yes",
+        "EventName": "Let's Learn .NET: GitHub",
+        "EventNotes": "In this month's .NET beginner series, get a full introduction to source control with Git and GitHub. Learn how to get started with Git, then use convenient features in Visual Studio and GitHub to accelerate your developer productivity! Streaming LIVE on Learn TV!",
+        "EventURL": "https://docs.microsoft.com/events/learntv/lets-learn-dotnet-github-february-2022/",
+        "Region": "Global",
+        "Host": "1st",
+        "EventType": "Online",
+        "PrimaryTech": ".NET",
+        "EventSize": "",
+        "Presence": "Speaker(s)",
+        "Language": "English (en)",
+        "ThumbnailURL": "/blob-assets/images/events/letslearn.png"
+    },
+    {
+        "ID": 13000,
+        "StartDate": "2022-01-11T00:00:00",
+        "EndDate": "2022-03-01T00:00:00",
+        "GoodToShare": "Yes",
+        "EventName": "Learn Live: Create microservices with .NET and ASP.NET",
+        "EventNotes": "Create independently deployable, highly scalable, and resilient services using the free and open-source .NET platform. Learn Live with our experts every Tuesday beginning January 11, 2022 on how you can Create microservices with .NET and ASP.NET.",
+        "EventURL": "https://docs.microsoft.com/events/learntv/learnlive-create-microservices-dotnet/",
+        "Region": "Global",
+        "Host": "1st",
+        "EventType": "Online",
+        "PrimaryTech": ".NET",
+        "EventSize": "",
+        "Presence": "Speaker(s)",
+        "Language": "English (en)",
+        "ThumbnailURL": "/blob-assets/images/events/learnlive-microservices.png"
+    }
+]
