@@ -1,0 +1,53 @@
+[
+    {
+        "ID": 5000,
+        "StartDate": "2023-08-31T00:00:00",
+        "EndDate": "2023-08-31T00:00:00",
+        "GoodToShare": "Yes",
+        "EventName": "Let's Learn .NET: Artificial Intelligence",
+        "EventNotes": "In this month's beginner series, you'll learn how to get started integrating artificial intelligence in your .NET applications. Come to learn something new and leave with something that we all built, together, live with experts.",
+        "EventURL": "https://dotnet.microsoft.com/live/lets-learn-dotnet",
+        "Region": "Global",
+        "Host": "1st",
+        "EventType": "Online",
+        "PrimaryTech": ".NET",
+        "EventSize": "",
+        "Presence": "Speaker(s)",
+        "Language": "English (en)",
+        "ThumbnailURL": "/blob-assets/images/events/letslearn.png"
+    },
+    {
+        "ID": 6000,
+        "StartDate": "2023-11-14T00:00:00",
+        "EndDate": "2023-11-17T00:00:00",
+        "GoodToShare": "Yes",
+        "EventName": "Microsoft Ignite",
+        "EventNotes": "Experience the latest innovations around AI, learn from product and partner experts to advance your skills, and connect with your community.",
+        "EventURL": "https://ignite.microsoft.com/",
+        "Region": "Global",
+        "Host": "1st",
+        "EventType": "Online",
+        "PrimaryTech": ".NET",
+        "EventSize": "",
+        "Presence": "Speaker(s)",
+        "Language": "English (en)",
+        "ThumbnailURL": "/blob-assets/images/events/ignite.png"
+    },
+    {
+        "ID": 13000,
+        "StartDate": "2023-11-14T00:00:00",
+        "EndDate": "2023-11-16T00:00:00",
+        "GoodToShare": "Yes",
+        "EventName": ".NET Conf",
+        "EventNotes": ".NET Conf is a free, 3 day virtual developer event that celebrates the release of .NET 8. Co-organized by the .NET community and Microsoft, .NET Conf has been an annual tradition for the past 12 years, and we are excited to bring you the best of .NET 8.",
+        "EventURL": "https://www.dotnetconf.net/?utm_campaign=savedate&utm_medium=website&utm_source=dotnet",
+        "Region": "Global",
+        "Host": "1st",
+        "EventType": "Online",
+        "PrimaryTech": ".NET",
+        "EventSize": "",
+        "Presence": "Speaker(s)",
+        "Language": "English (en)",
+        "ThumbnailURL": "/blob-assets/images/events/dotnetconf.png"
+    }
+]
