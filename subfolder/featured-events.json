@@ -1,8 +1,10 @@
-[
-    {
+{
+    "$schema": "./featured-events.schema.json",
+    "events": [
+      {
         "ID": 5000,
-        "StartDate": "20233-08-31T00:00:00",
-        "EndDate": "2023-08-31T:00:00",
+        "StartDate": "2023-08-31T00:00:00",
+        "EndDate": "2023-08-31T00:00:00",
         "GoodToShare": "Yes",
         "EventName": "Let's Learn .NET: Artificial Intelligence",
         "EventNotes": "In this month's beginner series, you'll learn how to get started integrating artificial intelligence in your .NET applications. Come to learn something new and leave with something that we all built, together, live with experts.",
@@ -15,8 +17,8 @@
         "Presence": "Speaker(s)",
         "Language": "English (en)",
         "ThumbnailURL": "/blob-assets/images/events/letslearn.png"
-    },
-    {
+      },
+      {
         "ID": 6000,
         "StartDate": "2023-11-14T00:00:00",
         "EndDate": "2023-11-17T00:00:00",
@@ -32,15 +34,15 @@
         "Presence": "Speaker(s)",
         "Language": "English (en)",
         "ThumbnailURL": "/blob-assets/images/events/ignite.png"
-    },
-    {
+      },
+      {
         "ID": 13000,
         "StartDate": "2023-11-14T00:00:00",
         "EndDate": "2023-11-16T00:00:00",
         "GoodToShare": "Yes",
-        "EventName": ".NET Conf",
-        "EventNotes": ".NET Conf is a free, 3 day virtual developer event that celebrates the release of .NET 8. Co-organized by the .NET community and Microsoft, .NET Conf has been an annual tradition for the past 12 years, and we are excited to bring you the best of .NET 8.",
-        "EventURL": "https://www.dotnetconf.net/?utm_campaign=savedate&utm_medium=website&utm_source=dotnet",
+        "EventName": "Microsoft Build",
+        "EventNotes": "Join us for Microsoft Build, our premier developer conference, to learn about the latest technologies and trends in the developer space.",
+        "EventURL": "https://build.microsoft.com/",
         "Region": "Global",
         "Host": "1st",
         "EventType": "Online",
@@ -48,6 +50,7 @@
         "EventSize": "",
         "Presence": "Speaker(s)",
         "Language": "English (en)",
-        "ThumbnailURL": "/blob-assets/images/events/dotnetconf.png"
-    }
-]
+        "ThumbnailURL": "/blob-assets/images/events/build.png"
+      }
+    ]
+  }
