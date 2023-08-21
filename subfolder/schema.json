@@ -1,0 +1,73 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "ID": {
+        "type": "integer"
+      },
+      "StartDate": {
+        "type": "string",
+        "format": "date-time"
+      },
+      "EndDate": {
+        "type": "string",
+        "format": "date-time"
+      },
+      "GoodToShare": {
+        "type": "string"
+      },
+      "EventName": {
+        "type": "string"
+      },
+      "EventNotes": {
+        "type": "string"
+      },
+      "EventURL": {
+        "type": "string"
+      },
+      "Region": {
+        "type": "string"
+      },
+      "Host": {
+        "type": "string"
+      },
+      "EventType": {
+        "type": "string"
+      },
+      "PrimaryTech": {
+        "type": "string"
+      },
+      "EventSize": {
+        "type": "string"
+      },
+      "Presence": {
+        "type": "string"
+      },
+      "Language": {
+        "type": "string"
+      },
+      "ThumbnailURL": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "ID",
+      "StartDate",
+      "EndDate",
+      "GoodToShare",
+      "EventName",
+      "EventNotes",
+      "EventURL",
+      "Region",
+      "Host",
+      "EventType",
+      "PrimaryTech",
+      "EventSize",
+      "Presence",
+      "Language",
+      "ThumbnailURL"
+    ]
+  }
+}
