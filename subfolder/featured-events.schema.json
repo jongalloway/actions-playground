@@ -1,0 +1,68 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/path/to/featured-events.schema.json",
+  "type": "object",
+  "properties": {
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ID": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "StartDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "EndDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "GoodToShare": {
+            "type": "string",
+            "enum": ["Yes", "No"]
+          },
+          "EventName": {
+            "type": "string"
+          },
+          "EventNotes": {
+            "type": "string"
+          },
+          "EventURL": {
+            "type": "string",
+            "format": "uri"
+          },
+          "Region": {
+            "type": "string"
+          },
+          "Host": {
+            "type": "string"
+          },
+          "EventType": {
+            "type": "string"
+          },
+          "PrimaryTech": {
+            "type": "string"
+          },
+          "EventSize": {
+            "type": "string"
+          },
+          "Presence": {
+            "type": "string"
+          },
+          "Language": {
+            "type": "string"
+          },
+          "ThumbnailURL": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "required": ["ID", "StartDate", "EndDate", "GoodToShare", "EventName", "EventNotes", "EventURL", "Region", "Host", "EventType", "PrimaryTech", "Presence", "Language", "ThumbnailURL"]
+      }
+    }
+  },
+  "required": ["events"]
+}
