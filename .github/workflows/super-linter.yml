@@ -25,6 +25,7 @@ jobs:
         uses: github/super-linter@v5
         env:
           VALIDATE_ALL_CODEBASE: false
+          VALIDATE_JSON: true
           DEFAULT_BRANCH: main
-          JSON_SCHEMA_PATH: ./schema.json
+          JSON_SCHEMA_PATH: subfolder/featured-events.schema.json
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
