@@ -10,4 +10,5 @@ jobs:
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
+          INPUT_SCHEMA: /subfolder/schema.json
           INPUT_JSONS: /subfolder/featured-events.json
