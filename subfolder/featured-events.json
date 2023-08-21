@@ -1,8 +1,8 @@
 [
     {
         "ID": 5000,
-        "StartDate": "2023-08-31T00:00:00",
-        "EndDate": "2023-08-31T00:00:00",
+        "StartDate": "20233-08-31T00:00:00",
+        "EndDate": "2023-08-31T:00:00",
         "GoodToShare": "Yes",
         "EventName": "Let's Learn .NET: Artificial Intelligence",
         "EventNotes": "In this month's beginner series, you'll learn how to get started integrating artificial intelligence in your .NET applications. Come to learn something new and leave with something that we all built, together, live with experts.",
